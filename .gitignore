@@ -1,0 +1,30 @@
+# Entornos y cachés de Python
+env*/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.RData
+.Rhistory
+.RDataTmp
+.Rproj.user/
+
+# Datos (se descargan aparte, ver datos/README.md)
+datos/*
+!datos/README.md
+IMAGES/
+
+# Resultados que generan los scripts
+RESULTADOS_ECG/
+salidas/
+cache/
+logs/
+boot_M*.csv
+
+# Varios
+*.zip
+.claude/
+.DS_Store
+Thumbs.db
