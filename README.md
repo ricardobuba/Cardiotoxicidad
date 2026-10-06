@@ -90,4 +90,4 @@ Todo lo aleatorio lleva semilla fija: `np.random.RandomState(7)` en la muestra d
 
 ## Autor
 
-Ricardo Martín Buba Sopko
+Ricardo Martin Buba Sopko
